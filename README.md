@@ -1,3 +1,5 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/1024367814938738729/1049686131496730684/Blue_Yellow_Futuristic_Virtual_Technology_Blog_Banner.gif)]
+
 <h1 align="center">Hi 👋, I'm Nic</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
